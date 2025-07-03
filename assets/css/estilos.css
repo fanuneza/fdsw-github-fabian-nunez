@@ -27,12 +27,16 @@ body {
   color: #373a3c;
 }
 
+#Contacto textarea {
+  min-height: 150px;
+}
+
 @media (max-width: 768px) {
   #Contacto form label {
     font-weight: 400;
   }
 
-  .navbar-brand{
+  .navbar-brand {
     width: 100px;
   }
 
