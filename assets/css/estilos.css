@@ -11,6 +11,11 @@ body {
   background-position: left;
 }
 
+#Hero-Section button,
+#Contacto button {
+  text-transform: uppercase;
+}
+
 /* Mis trabajos */
 
 #Mis-trabajos .image-top {
